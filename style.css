@@ -22,6 +22,7 @@ html {
 .title {
     color: #2c3e50;
     font-weight: 700;
+    font-size: 2.0rem;
 }
 
 .quote {
@@ -30,5 +31,5 @@ html {
 }
 
 hr {  
-    opacity: .7;
+    opacity: .5;
 }
